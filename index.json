@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "name": "SubDL Arabic",
+      "description": "Fetch and download Arabic subtitles from SubDL",
+      "url": "https://raw.githubusercontent.com/anastoji99-beep/cloudstream-subdl-arabic/main/plugins/subdl-arabic.js",
+      "version": "1.3",
+      "language": ["ar"],
+      "type": "subtitles"
+    }
+  ]
+}
